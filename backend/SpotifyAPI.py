@@ -5,7 +5,7 @@ from ScoreAnalysis import *
 
 #Authorization parameters
 client_id = "6c669516a1344c7e92731cd4da00cb07"
-client_secret = "4fb4070102234dcabfab3899b9148c9b"
+client_secret = ""           #Must have your own here
 
 def get_token() :
     #Encode client credentials
